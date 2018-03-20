@@ -1,2 +1,2 @@
 # hello-world
-steez
+steez - means style with ease, effortless style.
